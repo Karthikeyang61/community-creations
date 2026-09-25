@@ -31,12 +31,9 @@ To avoid merge conflicts when multiple PRs are created around the same time, ple
 
 Example row (copy/paste and edit):
 
-```markdown
-| [my-project](https://github.com/<org-or-user>/<repo>) | One or two sentences describing what it does and which Silicon Labs technology it uses. | [my-handle](https://github.com/<your-handle>) |
-```
-
 | Project (GitHub) | Description | Author/Contributor |
 |:--|:--|:--|
+| [Engine Monitoring System](https://github.com/Karthikeyang61/Engine-Monitoring-System) | An IoT-based engine health monitoring system built on the Silicon Labs SiWG917 platform. It continuously monitors engine temperature and vibration, provides real-time alerts for abnormal conditions, and supports predictive maintenance to improve engine reliability and reduce downtime. | [Karthikeyang61](https://github.com/Karthikeyang61) |
 
 ## Documentation ##
 
